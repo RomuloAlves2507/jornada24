@@ -53,7 +53,7 @@ export default function Home() {
       <section className="p-8 bg-pink-50">
         <h1 className="text-2xl font-bold mb-4 text-pink-900">Minha Contribuição</h1>
         <p className="text-gray-700">
-          Dentre os resultados deste trabalho destaca-se a organização de uma planilha eletrônica contendo todos os Planos de Trabalho de Iniciação Científica desenvolvidos pelo GHMat nos seus primeiros cinco anos, de 2019 a 2024, na qual pode ser acessada mediante solicitação. A planilha apresenta além dos dados do plano de trabalho a Instituição de Ensino Superior (IES) a qual os estudantes de IC-Jr ingressaram após concluírem o Ensino Médio, cujo levantamento foi realizado com o auxílio da estudante de IC-Jr Sophia Soares.
+          Dentre os resultados deste trabalho destaca-se a organização de uma planilha eletrônica contendo todos os Planos de Trabalho de Iniciação Científica desenvolvidos pelo GHMat nos seus primeiros cinco anos, de 2019 a 2024, na qual sua parte pública pode ser visualizada a seguir. A planilha apresenta além dos dados do plano de trabalho a Instituição de Ensino Superior (IES) a qual os estudantes de IC-Jr ingressaram após concluírem o Ensino Médio, cujo levantamento foi realizado com o auxílio da estudante de IC-Jr Sophia Soares.
         </p>
         <p className="mt-4 text-gray-700">
           Este trabalho culminou também na publicação de um artigo no 7º Congresso Brasileiro de Etnomatemática (7CBEm), um evento de âmbito nacional no campo da Etnomatemática.
