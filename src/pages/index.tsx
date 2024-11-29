@@ -8,32 +8,21 @@ export default function Home() {
         {/* Logo e nome do GHMat */}
         <div className="flex items-center gap-4">
           <img
-            src="https://tse4.mm.bing.net/th?id=OIP.0k51k8rom7Httx84jCoZKAHaHa&pid=Api&P=0&h=180"
-            width={50}
-            alt="Logo GHMat"
-          />
-          <img
-            src="https://raw.githubusercontent.com/RomuloAlves2507/server/refs/heads/main/ghmat_letras.png"
+            src="https://raw.githubusercontent.com/RomuloAlves2507/server/1fb43c79a63de0abd1d76629de0ec0545c88145b/Logo_HIMAT.png"
             width={150}
-            alt="GHMat por extenso"
+            alt="Logo GHMat"
           />
         </div>
         
         {/* Ícones de redes sociais e botão para download */}
         <div className="flex items-center gap-4">
-          <a 
-            href="https://drive.google.com/uc?id=1pj-65ZhD5C48mgh10KRiG1WRwn0Ostax&export=download" 
-            className="bg-pink-500 text-white py-2 px-4 rounded"
-          >
-            Baixar Pôster
-          </a>
-
+          
           {/* Facebook */}
           <a href="https://www.facebook.com/ghmatifes/" target="_blank" rel="noopener noreferrer">
             <img
               src="https://static.vecteezy.com/system/resources/previews/009/673/705/original/glossy-facebook-3d-render-icon-free-png.png"
               alt="Facebook do GHMat"
-              style={{ width: '40px', height: '40px' }}
+              style={{ width: '60px', height: '60px' }}
             />
           </a>
 
@@ -64,7 +53,7 @@ export default function Home() {
       <section className="p-8 bg-pink-50">
         <h1 className="text-2xl font-bold mb-4 text-pink-900">Minha Contribuição</h1>
         <p className="text-gray-700">
-          Dentre os resultados deste trabalho destaca-se a organização de uma planilha eletrônica contendo todos os Planos de Trabalho de Iniciação Científica desenvolvidos pelo GHMat nos seus primeiros cinco anos, de 2019 a 2024, a qual pode ser acessada mediante solicitação. A planilha apresenta além dos dados do plano de trabalho a Instituição de Ensino Superior (IES) a qual os estudantes de IC-Jr ingressaram após concluírem o Ensino Médio, cujo levantamento foi realizado com o auxílio da estudante de IC-Jr Sophia Soares.
+          Dentre os resultados deste trabalho destaca-se a organização de uma planilha eletrônica contendo todos os Planos de Trabalho de Iniciação Científica desenvolvidos pelo GHMat nos seus primeiros cinco anos, de 2019 a 2024, na qual pode ser acessada mediante solicitação. A planilha apresenta além dos dados do plano de trabalho a Instituição de Ensino Superior (IES) a qual os estudantes de IC-Jr ingressaram após concluírem o Ensino Médio, cujo levantamento foi realizado com o auxílio da estudante de IC-Jr Sophia Soares.
         </p>
         <p className="mt-4 text-gray-700">
           Este trabalho culminou também na publicação de um artigo no 7º Congresso Brasileiro de Etnomatemática (7CBEm), um evento de âmbito nacional no campo da Etnomatemática.
